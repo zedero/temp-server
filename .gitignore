@@ -1,0 +1,13 @@
+node_modules
+dist
+test
+.DS_Store
+api_key.js
+config.js
+
+# IDE project files
+.idea
+*.bak
+*.bbprojectd/
+*.sublime-project
+*.sublime-workspace

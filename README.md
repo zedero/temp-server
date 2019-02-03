@@ -1,2 +1,11 @@
 # temp-server
-A temp server for development projects
+A temporary server for development projects
+
+
+Installation instructions:
+
+open command prompt
+
+run: npm install
+
+run: node server

@@ -1,0 +1,24 @@
+{
+  "name": "frontend-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate setup for Osage front-end projects",
+  "repository": {
+    "type": "git",
+    "url": "https://www.osagit.nl/osage/frontend-boilerplate.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "querystring": "^0.2.0",
+    "request": "^2.76.0",
+    "xhr": "^2.2.2"
+  }
+}
