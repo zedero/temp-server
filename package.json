@@ -2,11 +2,11 @@
   "name": "frontend-boilerplate",
   "version": "0.1.0",
   "description": "Boilerplate setup for Osage front-end projects",
-  "repository": {
-    "type": "git",
-    "url": "https://www.osagit.nl/osage/frontend-boilerplate.git"
-  },
-  "license": "UNLICENSED",
+ 
+"scripts": {
+  "start": "node server.js"
+},
+"main": "server.js",
   "devDependencies": {},
   "babel": {
     "presets": [
