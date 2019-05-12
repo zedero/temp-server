@@ -55,7 +55,7 @@ app.get(SUBDOMAIN + '/test', function(req, res) {
  /*
   * Server initialization
   */
- let server = app.listen(13370, 'localhost', function () {
+ let server = app.listen(8080, 'localhost', function () {
      let host = server.address().address;
      let port = server.address().port;
      console.log("Api listening at http://%s:%s", host, port);
